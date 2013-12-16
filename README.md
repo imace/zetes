@@ -112,4 +112,4 @@ write
 
 	make all
 	
-Zetes will be built with all demo projects.
+To build example projects, please clone the https://github.com/bigfatbrowncat/zetes-examples.git repo.
